@@ -3316,7 +3316,7 @@
         "anime_extra": "",
         "anime_keywords": "{title:original} {episode}",
         "anime_query": "",
-        "base_url": "https://mazepa.to/tracker.php?submit=1&o=13&nm=QUERY,
+        "base_url": "https://mazepa.to/tracker.php?submit=1&o=13&nm=QUERY",
         "color": "FFFFFFFF",
         "general_extra": "",
         "general_keywords": "{title:original}",
